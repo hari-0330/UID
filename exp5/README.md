@@ -6,9 +6,6 @@ Features
 Increment and decrement buttons
 Reset functionality
 User-friendly interface
-Installation
-Clone the repository:
-git clone https://github.com/yourusername/simple-counter-app.git
 Navigate to the project directory:
 cd simple-counter-app
 Install dependencies:
