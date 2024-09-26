@@ -1,4 +1,7 @@
-![Uploading Screenshot_20240926_231746.png…]()
+![Screenshot_20240926_231758](https://github.com/user-attachments/assets/803e75e5-aa2d-425a-bc25-319b99761ded)
+![Screenshot_20240926_231746](https://github.com/user-attachments/assets/f1674dd5-5c4a-442c-81e6-1be489c086da)
+![Screenshot_20240926_231735](https://github.com/user-attachments/assets/c69b1c8c-b62c-4d88-86ea-ea70ede65022)
+
 
 # MyFlix Store - E-Commerce Website
 
