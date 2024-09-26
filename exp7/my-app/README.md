@@ -1,20 +1,32 @@
-Weather API App
-Table of Contents
-Overview
-Features
-Technologies Used
-Installation
-Usage
-API Documentation
-Project Structure
-License
-Overview
-This is a Weather API application that fetches and displays real-time weather data for different locations. Users can input a city name to get current weather conditions, temperature, humidity, and more. The app interacts with a public weather API to retrieve data.
 
-Features
-Fetches real-time weather data based on city name.
-Displays temperature, humidity, wind speed, and general weather conditions.
-User-friendly interface to search for any city globally.
-Error handling for invalid or non-existent city names.
 ![Screenshot_20240926_142655](https://github.com/user-attachments/assets/ad1859b1-eefb-4df2-98b9-c1ad2c306536)
 ![Screenshot_20240926_142305](https://github.com/user-attachments/assets/039d0fc1-029d-4cdc-b545-2cd90008fb42)
+
+---
+
+### 7. **Weather Application**
+
+```markdown
+# Weather Application
+
+## Overview
+
+The **Weather Application** displays the weather forecast for a specific location by fetching data from an external weather API.
+
+## Features
+
+- **Weather API Integration**: Fetches weather data for a specific location.
+- **Dynamic Display**: Weather information is displayed dynamically based on user input.
+
+## Technologies Used
+
+- **React**: For UI and state management.
+- **API Integration**: Fetching weather data from an API.
+- **CSS**: For layout and design.
+
+## Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo/weather-app.git
+   cd weather-app
